@@ -1,0 +1,36 @@
+{
+  "/home/dennis/dev/graphql-light/dist/graphql-light.cjs.development.js": {
+    "bundled": 1147,
+    "minified": 666,
+    "gzipped": 364
+  },
+  "/home/dennis/dev/graphql-light/dist/graphql-light.cjs.production.js": {
+    "bundled": 1147,
+    "minified": 666,
+    "gzipped": 364
+  },
+  "/home/dennis/dev/graphql-light/dist/graphql-light.es.production.js": {
+    "bundled": 994,
+    "minified": 548,
+    "gzipped": 298,
+    "treeshaked": {
+      "rollup": {
+        "code": 34,
+        "import_statements": 34
+      },
+      "webpack": {
+        "code": 1377
+      }
+    }
+  },
+  "/home/dennis/dev/graphql-light/dist/graphql-light.umd.development.js": {
+    "bundled": 1544,
+    "minified": 762,
+    "gzipped": 428
+  },
+  "/home/dennis/dev/graphql-light/dist/graphql-light.umd.production.js": {
+    "bundled": 1544,
+    "minified": 762,
+    "gzipped": 428
+  }
+}
